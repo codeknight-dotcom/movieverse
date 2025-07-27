@@ -11,7 +11,6 @@ const Header = () => {
       navigate(`/?search=${query}`);
     }
   };
-
   return (
     <header>
       <h1><Link to="/">MovieVerse</Link></h1>
@@ -22,5 +21,4 @@ const Header = () => {
     </header>
   );
 };
-
 export default Header;
