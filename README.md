@@ -1,6 +1,6 @@
 #  MovieVerse
 
-MovieVerse is a powerful, responsive, and modern ReactJS web application that allows users to explore movies, view detailed information, and manage their personal watchlist. It utilizes the TMDB (The Movie Database) API to fetch real-time movie data and trailers.
+MovieVerse is a powerful, responsive, and modern ReactJS web application that allows users to explore movies, view detailed information, and manage their personal watchlist. It utilizes the TMDB (The Movie Database) API to fetch real-time movie data .
 
 ##  Features
 
